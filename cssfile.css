@@ -1,3 +1,45 @@
+body{
+  background-color: #D3DEDC;
+}
+
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+
+h1{
+  color: #66BFBF;
+  font-family: 'Quintessential', cursive;
+}
+
+h3{
+  color: #000B49;
+}
+
+ol{
+  font-family: 'Oxygen', sans-serif;
+}
+
+.sub-heading{
+  font-family: 'Merriweather', serif;
+}
+
+.contact-format{
+  font-family: 'Anton', sans-serif;
+}
+
+.main-ul{
+  font-family: 'Bebas Neue', cursive;
+}
+
+.sub-ul{
+  font-family: 'Oxygen', sans-serif;
+}
+
+
 .circular--square
 {
   border-top-left-radius: 50% 50%;
